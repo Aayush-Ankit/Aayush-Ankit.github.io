@@ -9,12 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-**Download detailed CV:**  <a href="http://aayush-ankit.github.io/files/aayush_resume_updated.pdf">aayushankit-cv</a>
-
 Education
 ======
 * B.Tech. in Electronics Engineering, IIT (BHU) Varanasi, India, 2015
-* Ph.D in Computer Engineering, Purdue Universiyu, 2020 (expected)
+* Ph.D in Computer Engineering, Purdue University, 2020 (expected)
 
 Work experience
 ======
@@ -38,4 +36,4 @@ Research Interests
 * Deep Learning
 * Hardware-Software Codesign
 
-**Download detailed CV:**  
+**Download detailed CV:**  <a href="http://aayush-ankit.github.io/files/aayush_resume_updated.pdf">aayushankit-cv</a>
