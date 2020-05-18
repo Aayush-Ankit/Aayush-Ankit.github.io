@@ -22,8 +22,7 @@ author_profile: true
 
 ## Patents
 
-* Bit-slicing for ReRam based training of neural networks
-* Approximate Trilinear Filtering
+* Approximate Trilinear Filtering for Mobile GPUs
 
 ## Complete List
 
