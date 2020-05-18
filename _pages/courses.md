@@ -28,4 +28,4 @@ author_profile: true
   * Deep Learning (_By Prof. Eugenio Culurciello_)
   * Random Variables and Probability (_By Prof. Mark Bell_)
   * Advanced Linear Algebra (_By Prof. Aaron Yip_)
-  * Ordinary Differential Equations (_By Prof. Aaron Yip)
+  * Ordinary Differential Equations (_By Prof. Aaron Yip_)
