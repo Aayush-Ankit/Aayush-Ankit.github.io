@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Overview"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+**Download detailed CV:**  <u><a href="https://aayush-ankit.github.io/files/aayush_resume_updated.pdf>aayushankit-cv</a>.</u>
 
 Education
 ======
@@ -28,15 +30,12 @@ Work experience
   * Hewlett Packard Labs
   * Mentors: Dejan Milojicic, John Paul Strachan
 
-Skills
+Research Interests
 ======
 * Computer Architecture
-* Hig Performance Computing
+* High Performance Computing
 * AI Accelerators
 * Deep Learning
+* Hardware-Software Codesign
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+**Download detailed CV:**  

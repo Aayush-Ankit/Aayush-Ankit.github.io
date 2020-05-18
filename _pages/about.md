@@ -8,4 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Aayush received his B.Tech. degree in Electronics Engineering from Indian Institute of Technology (BHU), Varanasi, in 2015. He worked as a summer research intern and MITACS Globalink fellow at University of Alberta, Canada in 2014. Prior to that, he was as a summer intern at Hanyang University, South Korea in 2013. Currently, he is pursuing PhD under the guidance of Prof. Kaushik Roy. His primary research interests lie in hardware and software design for machine learning.
+Aayush Ankit is a PhD Candidate in the Department of Electrical and Computer Engineering at Purdue University. His research interestes are in computer architecture (microarchitecture, architecture, compilers) using emerging processor and memory technologies, with particular interest in machine learning. In his PhD, he has explored hardware-software codesign for machine learning using in-memory computing.
+
+Aayush received his B.Tech. in Electronics Engineering at IIT (BHU), Varanasi, India, where he graduated with honors and received MITACS Globalink Fellowship.
