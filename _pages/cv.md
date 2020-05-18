@@ -7,35 +7,33 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+## Education
 
-Education
-======
 * Ph.D in Computer Engineering, Purdue University, 2020 (expected)
 * B.Tech. in Electronics Engineering, IIT (BHU) Varanasi, India, 2015
 
-Work experience
-======
+## Work Experience
+
 * Summer 2019: GPU Architect Intern
   * Samsung ACL, San Jose
-  * Mentors: Anders Kugler, Wilson Fung
+  * Mentors: _Anders Kugler, Wilson Fung_
 
 * Fall 2017: CPU Design Intern
   * Intel Corporation, Hillsboro
-  * Mentors: Christopher Palistrant, James Hadley
+  * Mentors: _Christopher Palistrant, James Hadley_
 
 * Summer 2017: ML Architect Intern
   * Hewlett Packard Labs
-  * Mentors: Dejan Milojicic, John Paul Strachan
+  * Mentors: _Dejan Milojicic, John Paul Strachan_
 
-Research Interests
-======
+## Research Interests
+
 * Computer Architecture
 * High Performance Computing
 * AI Accelerators
 * Deep Learning
 * Hardware-Software Codesign
 
-Detailed CV (download)
-======
+## Download Detailed CV
+
 <a style="text-decoration:none" href="http://aayush-ankit.github.io/files/aayush_resume_updated.pdf">aayush_resume_updated</a>
