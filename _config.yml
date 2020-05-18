@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Personal Website"
 title_separator          : "-"
 name                     : &name "Aayush Ankit"
-description              : &description "Graduate research assistant at Purdue University"
+description              : &description "PhD Candidate at Purdue University"
 url                      : https://Aayush-Ankit.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Aayush-Ankit.github.io"
@@ -82,39 +82,19 @@ analytics:
 author:
   name             : "Aayush Ankit"
   avatar           : "profile.png"
-  bio              : "PhD candidate in Computer Engineering, Purdue University"
+  bio              : "PhD Candidate in Computer Engineering, Purdue University"
   location         : "West Lafayette, Indiana"
   employer         :
   pubmed           :
-  googlescholar    : #""
-  email            : "aankit [at] purdue.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  googlescholar    : "http://scholar.google.com/citations?user=_lIGoeUAAAAJ&hl=en"
+  email            : "aankit@purdue.edu"
   bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
   facebook         :
-  foursquare       :
   github           : "Aayush-Ankit"
-  google_plus      :
-  keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
-  orcid            :
-  pinterest        :
-  soundcloud       :
+  linkedin         : "https://www.linkedin.com/in/aayushankit"
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
   twitter          :
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
 
 
 # Reading Files
