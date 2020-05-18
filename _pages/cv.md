@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Overview"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -36,4 +36,4 @@ Research Interests
 * Deep Learning
 * Hardware-Software Codesign
 
-**Download detailed CV:**  <a href="http://aayush-ankit.github.io/files/aayush_resume_updated.pdf">aayushankit-cv</a>
+Detailed CV :  <a href="http://aayush-ankit.github.io/files/aayush_resume_updated.pdf">aayush_resume_updated</a>
