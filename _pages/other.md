@@ -8,11 +8,11 @@ author_profile: true
 ## Teaching and Mentorship
 
   * Teaching Assistant for ECE 270 in Fall 2015, Spring 2016
-    * Conduct lab sessions for the course Introduction to Digital System Design (ECE 270), help the students with their lab experiments and homeworks.
-    * Supervise undergraduate TAs
+    * Conducted lab sessions for the course Introduction to Digital System Design (ECE 270), help the students with their lab experiments and homeworks
+    * Supervised undergraduate TAs
     * Contributed to lab course materials
-  * Mentored undergraduate research
-    * Ryan Peter Sullivan (PhD student at Univesity of Maryland)
+  * Mentored undergraduate students
+    * Ryan P. Sullivan (PhD student at Univesity of Maryland)
 
 ## Awards and Recognitions
 
