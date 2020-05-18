@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.Tech. in Electronics Engineering, IIT (BHU) Varanasi, India, 2015
 * Ph.D in Computer Engineering, Purdue University, 2020 (expected)
+* B.Tech. in Electronics Engineering, IIT (BHU) Varanasi, India, 2015
 
 Work experience
 ======
