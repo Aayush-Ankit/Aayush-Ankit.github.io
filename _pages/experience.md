@@ -17,8 +17,8 @@ author_profile: true
   * Developed RTL for above blocks; performed area, power, timig analysis; and formal verification.
   * Performed synthesis and PnR of existing blocks to analyze for timing failures and study the impact of different architectural choices.
 
-### ML Accelerator Architect Intern at Hewlett Packard Labs (Full-time: May 2017 - Aug 2017, Part-time: Jan 2018 - Dec 2018)
+### ML Accelerator Architect Intern at Hewlett Packard Labs (Full-time: May 2017 - Aug 2017)
   * Designed PUMA: an ISA-programmable and general-purpose architecture built with NVM crossbars that can implement all varieties of ML applications (CNN, LSTM, MLP etc.).
   * Developed a cycle-level simulator (performance, power and functionality) for the proposed architecture for design space exploration and benchmarking.
   * Proposed compiler optimizations for improving performance.
-  * Work has been adopted for Advanced Development projects at HPE - <a style="text-decoration:none" href="https://arxiv.org/abs/2003.06902">DPE-PUMA</a>.
+  * Work has been adopted for Advanced Development projects at HPE - <a style="text-decoration:none" href="https://www.labs.hpe.com/next-next/dot-product-engine">DPE-PUMA</a>.

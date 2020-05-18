@@ -36,8 +36,8 @@ redirect_from:
 
 ## Professional Affiliations
 
-* Reviewer: DAC (expert reviewer), ICCAD (external reviewer), IEEE journals - TVLSI, TCAD, TETC,
-TNNLS, TCAS-2, Access, ACM journals - TACO, JETCAS, JETC
+* Reviewer: DAC (expert reviewer); ICCAD (external reviewer); IEEE journals - TVLSI, TCAD, TETC,
+TNNLS, TCAS-2, Access; ACM journals - TACO, JETCAS, JETC
 * Affiliations: Institue of Electrical and Electronics Engineers (IEEE), Semiconductor Research Corporation (SRC), Center for Brain-Inspired Computing Enabling Autonomous Intelligence (C-BRIC) - an SRC and DARPA sponsored JUMP center
 
 ## Download Detailed CV
