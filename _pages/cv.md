@@ -36,4 +36,6 @@ Research Interests
 * Deep Learning
 * Hardware-Software Codesign
 
-Detailed CV :  <a href="http://aayush-ankit.github.io/files/aayush_resume_updated.pdf">aayush_resume_updated</a>
+Detailed CV (download)
+======
+<a style="text-decoration:none" href="http://aayush-ankit.github.io/files/aayush_resume_updated.pdf">aayush_resume_updated</a>
