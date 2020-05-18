@@ -9,7 +9,7 @@ redirect_from:
 
 ## Education
 
-* Ph.D in Computer Engineering, Purdue University, 2020 (expected)
+* Ph.D in Electrical and Computer Engineering, Purdue University, 2020 (expected)
 * B.Tech. in Electronics Engineering, IIT (BHU) Varanasi, India, 2015
 
 ## Work Experience
@@ -22,7 +22,7 @@ redirect_from:
   * Intel Corporation, Hillsboro
   * Mentors: _Christopher Palistrant, James Hadley_
 
-* Summer 2017: ML Architect Intern
+* Summer 2017: ML Accelerator Architect Intern
   * Hewlett Packard Labs
   * Mentors: _Dejan Milojicic, John Paul Strachan_
 
