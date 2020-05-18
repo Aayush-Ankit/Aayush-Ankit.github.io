@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Experience"
-permalink: /experience/
+title: "Other Activities"
+permalink: /other/
 author_profile: true
 ---
 
