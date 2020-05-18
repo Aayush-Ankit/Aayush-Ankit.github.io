@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-**Download detailed CV:**  <u><a href="{{https://aayush-ankit.github.io/files/aayush_resume_updated.pdf}}">aayushankit-cv</a>.</u>
+**Download detailed CV:**  <a href="http://aayush-ankit.github.io/files/aayush_resume_updated.pdf">aayushankit-cv</a>
 
 Education
 ======
